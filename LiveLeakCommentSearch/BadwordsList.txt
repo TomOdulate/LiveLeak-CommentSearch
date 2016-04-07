@@ -1,0 +1,16 @@
+﻿## = comment
+\bn[i!1*]g(s)?\b
+\bneeg[ua]r\b
+\bn[ai1!*][g*@][g*@][e3ua](u)?r\b
+\bn[i1*!]g( )?n[o0*]g(s)?\b
+\bn[i1*$!][g$][g$][e0*$]r\b
+##\bkn[e*][*e]( )?gro(w)?\b
+\bsh[e3]b[o0*][o0*]n\b
+##\bmonkey\b
+##\bmonkies\b
+##\borc(s)?\b
+##\bape(s)?\b
+\bpavement ap[e3](s)?\b
+\bashphalt ap[e3](s)?\b
+\bsh[i!1*]t([ -])?sk[i!1]n(s)?\b
+\bc[o0*!][o*!0]n\b
